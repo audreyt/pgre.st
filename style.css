@@ -108,3 +108,25 @@ left:0;
             margin-bottom: 20px;
             border-bottom: 1px solid #ddd;
         }
+
+li a {
+    background: none repeat scroll 0 0 #FFFFE0;
+    color: #000000;
+    left: 0;
+    padding: 2px 5px;
+    position: relative;
+    top: 0;
+    font-weight: bold;
+    text-decoration: none;
+    border-bottom: 1px dotted #ccc;
+}
+li a:hover {
+    text-decoration: underline;
+}
+        #links {
+            font-size: 1.25em;
+            padding-top: 10px;
+            margin-bottom: 20px;
+            line-height: 1.8em;
+            border-top: 1px solid #ddd;
+        }
