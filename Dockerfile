@@ -1,4 +1,4 @@
-FROM cda1fad6491b
+FROM audreyt/cda1fad6491b
 MAINTAINER Audrey Tang <audreyt@audreyt.org>
 EXPOSE 5432
 EXPOSE 3000
